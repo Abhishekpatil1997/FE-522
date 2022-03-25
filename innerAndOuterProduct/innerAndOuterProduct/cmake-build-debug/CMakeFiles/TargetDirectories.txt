@@ -1,0 +1,3 @@
+C:/Users/Test/Desktop/innerAndOuterProduct/innerAndOuterProduct/cmake-build-debug/CMakeFiles/innerAndOuterProduct.dir
+C:/Users/Test/Desktop/innerAndOuterProduct/innerAndOuterProduct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Test/Desktop/innerAndOuterProduct/innerAndOuterProduct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

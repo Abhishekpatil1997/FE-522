@@ -1,0 +1,3 @@
+C:/Users/Test/Desktop/Template (1)/Template/cmake-build-debug/CMakeFiles/Template.dir
+C:/Users/Test/Desktop/Template (1)/Template/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Test/Desktop/Template (1)/Template/cmake-build-debug/CMakeFiles/rebuild_cache.dir

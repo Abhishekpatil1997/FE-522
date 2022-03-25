@@ -1,0 +1,7 @@
+# ninja log v5
+1	1931	6672586873199282	CMakeFiles/innerAndOuterProduct.dir/src/main.cpp.obj	3db542b43fd4d0e7
+1939	2391	6672586877647958	innerAndOuterProduct.exe	d7432899dd5537ae
+12	2285	6672631310129158	CMakeFiles/innerAndOuterProduct.dir/src/main.cpp.obj	3db542b43fd4d0e7
+2287	3016	6672631317262265	innerAndOuterProduct.exe	d7432899dd5537ae
+13	1823	6672638394027297	CMakeFiles/innerAndOuterProduct.dir/src/main.cpp.obj	3db542b43fd4d0e7
+1825	2219	6672638397863176	innerAndOuterProduct.exe	d7432899dd5537ae
